@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LiveRateFeed/.vs/LiveRateFeed
+/LiveRateFeed/LiveRateFeed/bin/Debug/netcoreapp3.1
+/LiveRateFeed/LiveRateFeed/obj
